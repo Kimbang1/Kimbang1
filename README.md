@@ -51,7 +51,7 @@
 
 ---
 
-## 🏆 My Custom GitHub Stats (수동 기준)
+## 🏆 My Custom GitHub Stats
 
 | Stat                      | Value |
 |---------------------------|-------|
@@ -63,7 +63,7 @@
 
 ---
 
-### 🚀 Most Used Languages (수동 기준)
+### 🚀 Most Used Languages 
 
 | Language   | 비율  |
 |------------|-------|
@@ -75,7 +75,7 @@
 
 ---
 
-## 🔥 Commit Streak (자동 표시)
+## 🔥 Commit Streak 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kimbang1&theme=dark&background=0E1117&ring=FFD700&fire=FF6B00&currStreakLabel=FFD700" />
@@ -83,15 +83,7 @@
 
 ---
 
-## 🏅 Trophies (자동 표시)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kimbang1&theme=onedark&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
-
----
-
-## 🎨 활동 그래프 (자동 표시)
+## 🎨 활동 그래프
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimbang1&bg_color=0E1117&color=ffffff&line=8a87b5&point=FFD700&area=true&hide_border=true" />
