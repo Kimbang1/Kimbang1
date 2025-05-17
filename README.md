@@ -50,75 +50,63 @@
 </div>
 
 ---
-<div align="center">
-  <!-- flex 컨테이너 -->
-  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; flex-wrap: wrap;">
-
---
-    <!-- Stats 테이블 -->
-    <div>
-      <h3 style="color: #fff; margin-bottom: 8px;">My Custom GitHub Stats</h3>
-      <table style="border-collapse: collapse; color: #fff;">
+<!-- 외부 테이블: 좌우 2열 -->
+<table align="center">
+  <tr>
+    <!-- 왼쪽 셀: Stats -->
+    <td valign="top">
+      <h3>My Custom GitHub Stats</h3>
+      <table>
         <tr>
-          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Stat</th>
-          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Value</th>
+          <th align="left">Stat</th>
+          <th align="left">Value</th>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Total Commits (2025)</td>
-          <td style="padding:4px 8px;">355</td>
+          <td>Total Commits (2025)</td><td>355</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Total Stars Earned</td>
-          <td style="padding:4px 8px;">2</td>
+          <td>Total Stars Earned</td><td>2</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Total PRs</td>
-          <td style="padding:4px 8px;">32</td>
+          <td>Total PRs</td><td>32</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Total Issues</td>
-          <td style="padding:4px 8px;">11</td>
+          <td>Total Issues</td><td>11</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Contributions (Last Year)</td>
-          <td style="padding:4px 8px;">6</td>
+          <td>Contributions (Last Year)</td><td>6</td>
         </tr>
       </table>
-    </div>
-
---
-    <!-- Languages 테이블 -->
-    <div>
-      <h3 style="color: #fff; margin-bottom: 8px;">Most Used Languages</h3>
-      <table style="border-collapse: collapse; color: #fff;">
+    </td>
+    <!-- 오른쪽 셀: Languages (패딩으로 간격) -->
+    <td valign="top" style="padding-left: 40px;">
+      <h3>Most Used Languages</h3>
+      <table>
         <tr>
-          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Language</th>
-          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">비율</th>
+          <th align="left">Language</th>
+          <th align="left">비율</th>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Java</td>
-          <td style="padding:4px 8px;">40%</td>
+          <td>Java</td><td>40%</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">JavaScript</td>
-          <td style="padding:4px 8px;">30%</td>
+          <td>JavaScript</td><td>30%</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">HTML</td>
-          <td style="padding:4px 8px;">15%</td>
+          <td>HTML</td><td>15%</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">CSS</td>
-          <td style="padding:4px 8px;">10%</td>
+          <td>CSS</td><td>10%</td>
         </tr>
         <tr>
-          <td style="padding:4px 8px;">Python</td>
-          <td style="padding:4px 8px;">5%</td>
+          <td>Python</td><td>5%</td>
         </tr>
       </table>
-    </div>
+    </td>
 
-</div>
+  </tr>
+</table>
+
 
 
 ---
