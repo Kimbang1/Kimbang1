@@ -50,36 +50,76 @@
 </div>
 
 ---
-<!-- 🏆 My Custom GitHub Stats & Most Used Languages -->
-<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
+<div align="center">
+  <!-- flex 컨테이너 -->
+  <div style="display: flex; justify-content: center; align-items: flex-start; gap: 60px; flex-wrap: wrap;">
 
-  <!-- Stats 테이블 -->
-  <div>
-    <h3>My Custom GitHub Stats</h3>
-    <table>
-      <tr><th align="left">Stat</th>                <th align="left">Value</th></tr>
-      <tr><td>Total Commits (2025)</td>      <td>355</td></tr>
-      <tr><td>Total Stars Earned</td>        <td>2</td></tr>
-      <tr><td>Total PRs</td>                 <td>32</td></tr>
-      <tr><td>Total Issues</td>              <td>11</td></tr>
-      <tr><td>Contributions (Last Year)</td> <td>6</td></tr>
-    </table>
-  </div>
+--
+    <!-- Stats 테이블 -->
+    <div>
+      <h3 style="color: #fff; margin-bottom: 8px;">My Custom GitHub Stats</h3>
+      <table style="border-collapse: collapse; color: #fff;">
+        <tr>
+          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Stat</th>
+          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Value</th>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Total Commits (2025)</td>
+          <td style="padding:4px 8px;">355</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Total Stars Earned</td>
+          <td style="padding:4px 8px;">2</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Total PRs</td>
+          <td style="padding:4px 8px;">32</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Total Issues</td>
+          <td style="padding:4px 8px;">11</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Contributions (Last Year)</td>
+          <td style="padding:4px 8px;">6</td>
+        </tr>
+      </table>
+    </div>
 
-  <!-- Languages 테이블 -->
-  <div>
-    <h3>Most Used Languages</h3>
-    <table>
-      <tr><th align="left">Language</th>    <th align="left">비율</th></tr>
-      <tr><td>Java</td>       <td>40%</td></tr>
-      <tr><td>JavaScript</td> <td>30%</td></tr>
-      <tr><td>HTML</td>       <td>15%</td></tr>
-      <tr><td>CSS</td>        <td>10%</td></tr>
-      <tr><td>Python</td>     <td>5%</td></tr>
-    </table>
-  </div>
+--
+    <!-- Languages 테이블 -->
+    <div>
+      <h3 style="color: #fff; margin-bottom: 8px;">Most Used Languages</h3>
+      <table style="border-collapse: collapse; color: #fff;">
+        <tr>
+          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">Language</th>
+          <th align="left" style="border-bottom:1px solid #444; padding:4px 8px;">비율</th>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Java</td>
+          <td style="padding:4px 8px;">40%</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">JavaScript</td>
+          <td style="padding:4px 8px;">30%</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">HTML</td>
+          <td style="padding:4px 8px;">15%</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">CSS</td>
+          <td style="padding:4px 8px;">10%</td>
+        </tr>
+        <tr>
+          <td style="padding:4px 8px;">Python</td>
+          <td style="padding:4px 8px;">5%</td>
+        </tr>
+      </table>
+    </div>
 
 </div>
+
 
 ---
 
