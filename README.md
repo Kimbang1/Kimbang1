@@ -58,7 +58,7 @@
     alt="Kimbang1's Top Languages"
   />
 
-  [![Kimbang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/Kimbang1/github-readme-stats)]]
+  [![Kimbang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/Kimbang1/github-readme-stats)
 </div>
 
 ---
