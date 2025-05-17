@@ -50,28 +50,36 @@
 </div>
 
 ---
+<!-- 🏆 My Custom GitHub Stats & Most Used Languages -->
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-## 🏆 My Custom GitHub Stats
+  <!-- Stats 테이블 -->
+  <div>
+    <h3>My Custom GitHub Stats</h3>
+    <table>
+      <tr><th align="left">Stat</th>                <th align="left">Value</th></tr>
+      <tr><td>Total Commits (2025)</td>      <td>355</td></tr>
+      <tr><td>Total Stars Earned</td>        <td>2</td></tr>
+      <tr><td>Total PRs</td>                 <td>32</td></tr>
+      <tr><td>Total Issues</td>              <td>11</td></tr>
+      <tr><td>Contributions (Last Year)</td> <td>6</td></tr>
+    </table>
+  </div>
 
-| Stat                      | Value |
-|---------------------------|-------|
-| Total Commits (2025)      | 355   |
-| Total Stars Earned        | 2     |
-| Total PRs                 | 32    |
-| Total Issues              | 11    |
-| Contributions (Last Year) | 6     |
+  <!-- Languages 테이블 -->
+  <div>
+    <h3>Most Used Languages</h3>
+    <table>
+      <tr><th align="left">Language</th>    <th align="left">비율</th></tr>
+      <tr><td>Java</td>       <td>40%</td></tr>
+      <tr><td>JavaScript</td> <td>30%</td></tr>
+      <tr><td>HTML</td>       <td>15%</td></tr>
+      <tr><td>CSS</td>        <td>10%</td></tr>
+      <tr><td>Python</td>     <td>5%</td></tr>
+    </table>
+  </div>
 
----
-
-### 🚀 Most Used Languages 
-
-| Language   | 비율  |
-|------------|-------|
-| Java       | 40%   |
-| JavaScript | 30%   |
-| HTML       | 15%   |
-| CSS        | 10%   |
-| Python     | 5%    |
+</div>
 
 ---
 
