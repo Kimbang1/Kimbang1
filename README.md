@@ -1,5 +1,5 @@
-## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&text=한번%20물면%20놓지%20않는%20-nl-개발자%20김병훈입니다.)
+
+![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=300&text=한번%20물면%20놓지%20않는%20-nl-개발자%20김병훈입니다.)
 <!--
 **Kimbang1/Kimbang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
