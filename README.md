@@ -6,7 +6,7 @@
 ---
 
 <!-- 🧑‍💻 About ME -->
-<div align="center">
+<div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 About ME 🧑‍💻</h2>
   <p style="font-weight:700; font-size:20px; color:#282d33; margin-top:10px;">
     한번 물면 절대 놓지 않고 해결하는 백엔드 개발자 입니다.
@@ -16,7 +16,7 @@
 ---
 
 <!-- 📧 Email -->
-<div align="center">
+<div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">📧 Email 📧</h2>
   <p style="font-weight:700; font-size:18px; color:#282d33; margin-top:5px;">
     kbhun123@gmail.com
