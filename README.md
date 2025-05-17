@@ -50,7 +50,6 @@
 </div>
 
 ---
----
 
 <!-- 🎨 Top Languages (Most Used) -->
 <div align="center">
@@ -62,15 +61,7 @@
 
 ---
 
-<!-- 🎨 활동 그래프 대신 solved.ac 뱃지 -->
-<div align="center">
-  <a href="https://solved.ac/Kimbang1/">
-    <img
-      src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=Kimbang1&theme=dark&compact=0"
-      alt="Solved.ac badge"
-    />
-  </a>
-</div>
+
 
 ---
 
