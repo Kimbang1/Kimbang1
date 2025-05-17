@@ -43,7 +43,7 @@
   <tr>
     <td align="center" style="padding: 10px;">
       <a href="https://github.com/Kimbang1/my-first-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimbang1&repo=my-first-project&theme=tokyonight" alt="My First Project" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimbang1&repo=coding_test&theme=tokyonight" alt="coding_test" />
       </a>
     </td>
     <td align="center" style="padding: 10px;">
