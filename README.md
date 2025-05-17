@@ -51,15 +51,30 @@
 
 ---
 
-<!-- 🎨 Top Languages (Most Used) -->
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&langs_count=6&hide=HTML,SCSS&theme=radical&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117"
-    alt="Kimbang1's Top Languages"
-  />
+<!-- 🎨 Top Languages & GitHub Stats side by side -->
+<table align="center">
+  <tr>
+    <!-- 왼쪽: Top Languages -->
+    <td valign="top" align="center" style="padding-right: 20px;">
+      <!-- Top Languages 카드 -->
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&langs_count=6&hide=HTML,SCSS&theme=radical&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117"
+        alt="Kimbang1's Top Languages"
+      />
+    </td>
+    <!-- 오른쪽: GitHub Stats -->
+    <td valign="top" align="center" style="padding-left: 20px;">
+      <!-- GitHub Stats 카드 -->
+      <a href="https://github.com/Kimbang1/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight"
+          alt="Kimbang1's GitHub stats"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
-  [![Kimbang1's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight)](https://github.com/Kimbang1/github-readme-stats)
-</div>
 
 ---
 
