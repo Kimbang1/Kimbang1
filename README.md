@@ -63,5 +63,5 @@
 
 <!-- 🎨 활동 그래프 (잔디 스트릭) -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimbang1&bg_color=0E1117&color=ffffff&line=8a87b5&point=FFD700&area=true&hide_border=true" alt="ByongHoon's GitHub Activity Graph" />
+  <img src="https://ghchart.rshah.org/Kimbang1" alt="ByongHoon's GitHub Contribution Chart" />
 </div>
