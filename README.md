@@ -2,15 +2,14 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3522c3,100:06011e&height=180&text=ByongHoon's%20git%20hub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">  </h2>  
+      <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About ME 🧑‍💻 </h2>  
     <div style="font-weight: 700; font-size: 20px; text-align: center; color: #282d33;"> 한번 물면 절대 놓지 않고 해결하는 백엔드 개발자 입니다. </div> 
     </div>
         <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>  
        <h2 align="center">📧 Email 📧</h2>
-<p align="center">
-  <Strong> 자 신 의 이 메 일 아 이 디 </Strong>
-</p><br>
+        <p align="center">
+          <Strong> kbhun123@gmail.com </Strong>
+        </p><br>
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
