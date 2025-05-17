@@ -50,27 +50,24 @@
 </div>
 
 ---
-
-<!-- 🎨 Top Languages & GitHub Stats side by side -->
-<table align="center">
+<!-- 🎨 GitHub Stats & Top Languages side by side, borderless and swapped -->
+<table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <!-- 왼쪽: Top Languages -->
+    <!-- 왼쪽 자리: GitHub Stats (원래 오른쪽) -->
     <td valign="top" align="center" style="padding-right: 20px;">
-      <!-- Top Languages 카드 -->
+      <a href="https://github.com/Kimbang1/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Kimbang1&show_icons=true&theme=tokyonight"
+          alt="Kimbang1's GitHub stats"
+        />
+      </a>
+    </td>
+    <!-- 오른쪽 자리: Top Languages (원래 왼쪽) -->
+    <td valign="top" align="center" style="padding-left: 20px;">
       <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&langs_count=6&hide=HTML,SCSS&theme=radical&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117"
         alt="Kimbang1's Top Languages"
       />
-    </td>
-    <!-- 오른쪽: GitHub Stats -->
-    <td valign="top" align="center" style="padding-left: 20px;">
-      <!-- GitHub Stats 카드 -->
-      <a href="https://github.com/Kimbang1/github-readme-stats">
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=SeungAh-Yoo99&show_icons=true&theme=tokyonight"
-          alt="Kimbang1's GitHub stats"
-        />
-      </a>
     </td>
   </tr>
 </table>
