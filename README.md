@@ -50,37 +50,28 @@
 </div>
 
 ---
+---
 
 <!-- 🎨 Top Languages (Most Used) -->
 <div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1
-      &layout=compact
-      &langs_count=6
-      &hide=HTML,SCSS
-      &theme=radical
-      &title_color=ffffff
-      &icon_color=79ff97
-      &text_color=c9d1d9
-      &bg_color=0d1117"
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&langs_count=6&hide=HTML,SCSS&theme=radical&title_color=ffffff&icon_color=79ff97&text_color=c9d1d9&bg_color=0d1117"
     alt="Kimbang1's Top Languages"
   />
 </div>
-
-
----
 
 ---
 
 <!-- 🎨 활동 그래프 대신 solved.ac 뱃지 -->
 <div align="center">
   <a href="https://solved.ac/Kimbang1/">
-    <img 
-      src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=Kimbang1&theme=dark&compact=0" 
-      alt="Solved.ac badge" 
+    <img
+      src="https://solvedac-readme-badge.vercel.app/api/v1/badge?user=Kimbang1&theme=dark&compact=0"
+      alt="Solved.ac badge"
     />
   </a>
 </div>
 
 ---
+
 
