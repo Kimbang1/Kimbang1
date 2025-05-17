@@ -38,5 +38,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&bg_color=60,121212,8a87b5&title_color=ffffff&text_color=ffffff" />
 
 </div>
+---
+
+## 🎨 활동 그래프
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kimbang1&bg_color=0E1117&color=ffffff&line=8a87b5&point=FFD700&area=true&hide_border=true" />
+</div>
 
     
