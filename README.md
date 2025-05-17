@@ -1,10 +1,14 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3522c3,100:06011e&height=180&text=ByongHoon's%20git%20hub&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
+--
+
+##자기 소개
     <div align= "center"> 
       <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 About ME 🧑‍💻 </h2>  
     <div style="font-weight: 700; font-size: 20px; text-align: center; color: #282d33;"> 한번 물면 절대 놓지 않고 해결하는 백엔드 개발자 입니다. </div> 
     </div>
+    --
         <div align= "center"> 
        <h2 align="center">📧 Email 📧</h2>
         <p align="center">
@@ -30,14 +34,7 @@
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
           <br/></div>
     </div>
-<div align="center">
-  
-## 🏅 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kimbang1&bg_color=60,121212,8a87b5&title_color=ffffff&text_color=ffffff" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimbang1&layout=compact&bg_color=60,121212,8a87b5&title_color=ffffff&text_color=ffffff" />
-
-</div>
 ---
 
 ## 🎨 활동 그래프
