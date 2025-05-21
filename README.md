@@ -64,23 +64,3 @@
 
     
 
-<!-- 🎯 Pinned Repositories -->
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Kimbang1/my-first-project">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimbang1&repo=coding_test&theme=tokyonight" alt="coding_test" />
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Kimbang1/awesome-api">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimbang1&repo=awesome-api&theme=tokyonight" alt="Awesome API" />
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/Kimbang1/cool-ui">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kimbang1&repo=cool-ui&theme=tokyonight" alt="Cool UI" />
-      </a>
-    </td>
-  </tr>
-</table>
