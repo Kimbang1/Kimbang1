@@ -10,7 +10,7 @@
 <div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 About ME 🧑‍💻</h2>
   <p style="font-weight:700; font-size:20px; color:#282d33; margin-top:10px;">
-    한번 물면 절대 놓지 않고 해결하는 백엔드 개발자 입니다.
+    항상 다방면으로 방법을 찾아가는 개발자 김병훈입니다.
   </p>
 </div>
 
