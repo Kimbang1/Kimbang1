@@ -12,7 +12,7 @@
 <div>
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;">🧑‍💻 About ME 🧑‍💻</h2>
   <p style="font-weight:700; font-size:20px; color:#282d33; margin-top:10px;">
-    항상 다방면으로 방법을 찾아가는 개발자 김병훈입니다.
+  	만들고 싶은것 하고싶은것들을 만들어보는 중인 김병훈입니다.
   </p>
 </div>
 
